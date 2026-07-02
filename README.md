@@ -9,7 +9,7 @@ This is particularly useful for players who want to experience modern server fea
 
 You can download latest build from our [Jenkins Server](https://ci.mzga.dev/job/Beta2Release/)
 
-**Or in the github Actions**
+**Or in the release section**
 
 ## Configuration Files
 
